@@ -31,4 +31,9 @@
 ✉️ dbsdudfh01@korea.ac.kr <br/>
 </div>
 
+<h1 align=center> Blog </h1>
+<div align=center>
+  📚<a href="https://www.notion.so/korea-bear-family/Welcome-to-Bear-World-ce2b83f9b5224d94a426d2a1a9ef3b1b"> Bear World! </a>
+</div>
+
 ![footer](https://capsule-render.vercel.app/api?type=wave&color=0:7FFFD4,100:0000CD&height=300&section=footer&text=See%20You%20Again&fontSize=90&fontColor=ffffff&fontAlignY=70&animation=twinkling)
